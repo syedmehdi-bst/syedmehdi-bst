@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Mehdi @syedmehdi-bst
-- 👨🏽‍💻 MTS - Dev UI @ bluestacks
+- 👨🏽‍💻 MTS - Dev @ bluestacks
 - 💌 Love to talk anything about software engineering, especially the JS and frontend ecosystem.
 
 <!---
